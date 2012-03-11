@@ -1,0 +1,11 @@
+This was my first attempt at building a Rogue like… Didn't really turn out all that amazing… But still was really fun! The more I use the Flixel game library the better I get at it!
+
+So basically the idea for my Rogue Like was to have lots of enemies spawn and kill them, but you would be limited to how many shots you had. You basically would kill enemies and collect their particles which in turn would replenish your ammo. You need to get enough ammo so you can kill the big boss square by shooting at it enough times… After doing this would then switch to the princess square which in turn lets you win the game.
+
+I spent about five hours on this, a lot went wrong, simply because I didn't come very prepared, spent bit of my time figuring out why collision wasn't working when implementing the Flixel Camera (I just had to set world bounds), then I spent time trying to figure out who to use the Flixel Tile mapping api… I ended up forgetting the tiling and just randomly spawned bunch of enemies with no ay's on the screen… If you touch them you will die though
+
+The controls are you can move up, down, left and right with the arrows and depending on the direction you are facing will let you fire bullets by pressing spacebar key. Objective is to kill enemies to get enough particles to kill giant black square above… But really you don't need to, just keep firing at the black square above and you will win. If you touch any of the black squares you will die.
+
+Nice link to Rogue Like chipset http://forums.tigsource.com/index.php?topic=8970.0
+
+Wasn't a great game, but good learning experience.
